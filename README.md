@@ -48,13 +48,16 @@ Soy estudiante de la Universidad Tecnológica de Pereira y actualmente curso el 
 
 ## Visita mis redes sociales
 <span>
-<a href= "https://www.instagram.com/molinadev___2004/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>  
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.instagram.com/molinadev___2004/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  </a>  
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </span>
 
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+<h2 align="center" style="margin: 5px 10px;">Estadísticas de GitHub:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=ElViejoMoli2004&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ElViejoMoli2004)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=ElViejoMoli2004&theme=material-palenight)](https://github.com/ElViejoMoli2004)
