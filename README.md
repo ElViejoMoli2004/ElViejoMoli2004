@@ -17,7 +17,7 @@ Soy estudiante de la Universidad Tecnológica de Pereira y actualmente curso el 
 - Fuera de la tecnología, 🎵 me encanta escuchar música, ⚽ disfruto mucho del fútbol, 🌄 las aventuras al aire libre, 🍳 cocinar, y descubrir nuevas experiencias.
 - 📫 Contáctame en: juandavidmolinacorrea@gmail.com
 
-## My Skills Include
+## Mis habilidades incluyen
 
 <h4> Lenguajes </h4>
 <span> 
@@ -25,31 +25,37 @@ Soy estudiante de la Universidad Tecnológica de Pereira y actualmente curso el 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </span>
 
 <h4> Frameworks </h4>
 <span>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
 </span>
 
-<h4> Databases </h4>
+<h4> Bases de datos </h4>
 <span>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
 
-<h4> IDE </h4>
-<span>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-
-
-<h4> Other Tools and Technologies </h4>
+<h4> Otras herramientas y tecnologías </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
-
 </span>
 
+## Visita mis redes sociales
+<span>
+<a href= "https://www.instagram.com/molinadev___2004/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>  
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</span>
 
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=ElViejoMoli2004&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ElViejoMoli2004)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=ElViejoMoli2004&theme=material-palenight)](https://github.com/ElViejoMoli2004)
+</div>
