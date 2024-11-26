@@ -2,7 +2,7 @@
 
 <h1 align="center">Hola, soy Juan David Molina. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWIweWFtaGF0aDFld3piOGYxeWdib3p1dHY3dzBmdm81b2twOWxkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de mí***
 
@@ -47,14 +47,13 @@ Soy estudiante de la Universidad Tecnológica de Pereira y actualmente curso el 
 </span>
 
 ## Visita mis redes sociales
-<span>
-  <a href="https://www.instagram.com/molinadev___2004/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-  </a>  
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</span>
+<a href="https://www.instagram.com/molinadev___2004/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>  
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
 
 
 <h2 align="center" style="margin: 5px 10px;">Estadísticas de GitHub:</h2> 
