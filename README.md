@@ -12,7 +12,7 @@ Soy estudiante de la Universidad Tecnológica de Pereira y actualmente curso el 
 - 🌱 Actualmente estoy aprendiendo:
   - Angular
   - Spring Boot
-- 👯 IEstoy buscando colaborar en proyectos que involucren desarrollo web o aplicaciones basadas en IA.
+- 👯 Estoy buscando colaborar en proyectos que involucren desarrollo web o aplicaciones basadas en IA.
 - ✔ Pregúntame cualquier cosa dentro de mi campo de conocimiento, ¡estaré encantado de ayudar!😉<br>
 - Fuera de la tecnología, 🎵 me encanta escuchar música, ⚽ disfruto mucho del fútbol, 🌄 las aventuras al aire libre, 🍳 cocinar, y descubrir nuevas experiencias.
 - 📫 Contáctame en: juandavidmolinacorrea@gmail.com
