@@ -7,7 +7,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de mí***
 
 
-Soy estudiante de la Universidad Tecnológica de Pereira y actualmente curso el tercer semestre de mi pregrado. Tengo experiencia en los lenguajes de programación Java, JavaScript y PHP.
+Soy estudiante de la Universidad Tecnológica de Pereira y actualmente curso el quinto semestre de mi pregrado. Tengo experiencia en los lenguajes de programación Java, JavaScript y PHP.
 * **Estoy interesado en el desarrollo backend y la inteligencia artificial.**
 - 🌱 Actualmente estoy aprendiendo:
   - Angular
